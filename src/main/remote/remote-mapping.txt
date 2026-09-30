@@ -1,0 +1,11 @@
+UP=Navigate Up
+DOWN=Navigate Down
+LEFT=Navigate Left
+RIGHT=Navigate Right
+OK=Select
+BACK=Back
+HOME=Home
+MENU=Menu
+PLAY_PAUSE=Play/Pause
+REWIND=Rewind
+FAST_FORWARD=Fast Forward
